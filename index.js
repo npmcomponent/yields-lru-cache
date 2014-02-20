@@ -3,7 +3,7 @@
  * dependencies
  */
 
-var ms = require('ms');
+// commented out by npm-component: var ms = require('ms');
 
 /**
  * Export `Cache`

@@ -1,0 +1,14 @@
+{
+  "name": "yields-lru-cache",
+  "description": "LRU Cache",
+  "version": "0.1.0",
+  "keywords": [
+    "cache",
+    "lru"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "guille-ms.js": "git://github.com/npmcomponent/guille-ms.js.git"
+  },
+  "license": "MIT"
+}
